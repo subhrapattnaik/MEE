@@ -1,0 +1,92 @@
+Redstone is power
+-----------------
+Redstone is all about 'power'. You can think of it as being the electricity within Minecraft.
+
+Redstone power comes from a power source, and can be transmitted to devices which will then do something in response.
+
+power sources:
+---------------
+Power sources provide redstone power. They include switches, redstone torches and the like.
+These blocks provide a redstone signal. Power sources can always be on (redstone torches,
+blocks of redstone), or they can be switches that are activated by the player, or they can be sensors that respond to various factors.
+
+
+Lever
+-------
+
+The lever can be switched on and off with a right-click. 
+In the on position, the lever will power both its own block and the block that is attached.
+
+Stone button
+-------------
+When your right-click on a stone button attached to a block, 
+both its own block and one next to it are powered for one second. The stone button provides a momentary pulse of power.
+
+
+Redstone torch
+------------
+The redstone torch is the most basic item in redstone circuits.
+Once placed, it powers its own block, plus the one above it. It's a constant source of power.
+
+
+
+Most types of blocks can become powered. Blocks can be powered when they contain a power source, or when they're attached to a power source. 
+For example, if you push a button, two blocks become powered: the block containing the button, and the block the button is attached to.
+
+Blocks that can be powered
+----------------------------
+All types of stone and brick blocks
+Dirt, grass, gravel, sand
+Wood, wool
+Double slabs
+Droppers and dispensers
+
+Blocks that can NOT be powered
+-------------------------------
+Glass, ice, glowstone
+Stairs and single slabs
+Chests
+Leaves
+Pistons and hoppers
+
+Switch blocks on
+Once a block is powered, it can switch on the blocks directly next to it. 
+The blocks that are switched on aren't themselves powered. 
+They won't transmit power to their neighbors, but if the switched ON blocks are devices, they'll be activated.
+
+
+
+"Device" is a term used to describe anything that does something when it receives a redstone signal. When a device is "switched on," things happen such as a light lights, a door opens, or TNT explodes.
+Devices that can be activated include: doors, pistons, dispensers, note blocks, and minecart rails.
+
+
+Piston:
+A piston is a block capable of pushing movable blocks, players, and mobs when given a redstone pulse.
+
+
+Lamp:
+A redstone lamp is a block that produces light when activated with a redstone signal.
+
+Doors:
+Wood and Iron doors can be controlled with redstone power.
+Iron doors can only be opened with redstone; wooden doors be opened either by hand or with redstone.
+
+How do you transmit power between the power source and the device?
+--------------------------------------------------------------------
+Redstone dust is a mineral that can transmit redstone power when placed as a block.
+Redstone dust will connect to form a wire that can even go up and down steps.  
+Redstone wire is used to transmit power from place to place, just like electrical wire. 
+
+Redstone wire becomes powered when it's next to a powered block.
+Here are some examples of a powered block: 
+
+A block containing a power source 
+The block with attached lever
+The block above a redstone torch
+Redstone power runs along the redstone wire, powering the blocks underneath the wire.
+
+
+
+
+
+
